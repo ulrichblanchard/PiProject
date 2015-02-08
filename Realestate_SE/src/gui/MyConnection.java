@@ -8,7 +8,7 @@ package gui;
 
 /**
  *
- * @author azerty
+ * @author blanchard
  */
 import java.sql.Connection;
 import java.sql.DriverManager;
